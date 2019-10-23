@@ -16,3 +16,9 @@ Lastly is the "concert-this" command which allows the user to see where a musici
 
 
 ![Concert-liri](https://user-images.githubusercontent.com/52939962/67244894-bdb2ed80-f428-11e9-821a-588aa36d9ba5.PNG)
+
+
+For all three commands, the results are logged in a txt file. 
+
+![image](https://user-images.githubusercontent.com/52939962/67438470-92afd180-f5c1-11e9-9d55-1a4a87594add.png)
+
