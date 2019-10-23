@@ -22,4 +22,4 @@ For all three commands, the results are logged in a txt file.
 
 ![image](https://user-images.githubusercontent.com/52939962/67438470-92afd180-f5c1-11e9-9d55-1a4a87594add.png)
 
-This assignment will be attached to my portfolio which I will link btu I have decided to create a new portfolio that looks nicer which is currently under construction. 
+This assignment will be attached to my portfolio which I will link btu I have decided to create a new portfolio that looks nicer which is currently under construction. I linked it to my old bootstrap to complete the assignment but don't plan on using that version of the portfolio in the end https://tcough99.github.io/Bootstrap-Portfolio/.
